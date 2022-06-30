@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Bachelor graduate in Economics from [Universidad de San Andrés] (www.udesa.edu.ar). Master in Economics' student at [Universidad de San Andrés] (www.udesa.edu.ar).
+Bachelor graduate in Economics from [Universidad de San Andrés](https://udesa.edu.ar/). Master in Economics' student at [Universidad de San Andrés](https://udesa.edu.ar/).
 
 
 For more info
